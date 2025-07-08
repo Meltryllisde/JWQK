@@ -10,3 +10,5 @@ Batchid通过监听获取,然后进行更改
 
 1. list的response结构可能变
 2. add的payload结构可能变
+
+浏览器控制台运行即可
